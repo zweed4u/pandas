@@ -1,0 +1,12 @@
+This is an intro for the series
+
+machine learning from 1959 - field of study where machines are given the ability to learn without explicitly programmed to do so
+NOT hardcoded
+
+1963 - support vector machine overlooked (better than neural network at the time)
+
+deeplearning and google
+
+scikit-learn very accurate with default params
+
+
